@@ -22,10 +22,8 @@ My goal is to build clear and reproducible workflows that uncover structure and 
 
 ## 📂 Selected Projects
 
-### **1. Analysing Wine Quality Data**
-Exploratory analysis of the UCI Wine Quality dataset, including correlation structure, PCA dimensionality reduction, and Isolation Forest outlier detection.
-
-🔗 **Link:** https://github.com/sciencerabbit19/Portfolio/tree/main/wine-quality-analyses  
+### **1. Free data analysis projects
+In this repository you'll find folders with the name of the project, basically with some file .md cointaing data analysis I perfomed on that public data just for fun. Enjoy it!
 
 ---
 
@@ -50,5 +48,4 @@ Combines entropy-based scoring, bootstrap and permutation robustness, and random
 I hold a Master's degree in Mathematics, where I focused on differential geometry, category theory, and topology.  
 I later moved into machine learning and data science, and I currently work as a Research Fellow at the National Research Council (CNR), where I analyse a wide range of biological datasets and develop statistical and ML pipelines for multi-omics research.
 
----
 ---
