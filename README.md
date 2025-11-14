@@ -26,7 +26,7 @@ My goal is to build clear, reproducible analyses that uncover structure in data 
 Exploratory analysis of the UCI Wine Quality dataset.  
 Includes correlation structure, dimensionality reduction (PCA), and Isolation Forest outlier detection.
 
-🔗 **Repository:** https://github.com/sciencerabbit19/Portfolio/tree/main/wine-quality-analyses  
+🔗 **Link:** https://github.com/sciencerabbit19/Portfolio/tree/main/wine-quality-analyses  
 
 ---
 
@@ -34,22 +34,15 @@ Includes correlation structure, dimensionality reduction (PCA), and Isolation Fo
 Longitudinal analysis pipeline for relating hormonal profiles, lipids, and vaginal microbiome composition.  
 Work includes mixed-effects modelling, robust statistical testing, and exploratory visualisation.
 
-🔗 **Repository:** https://github.com/Sanna-s-LAB
+🔗 **Link:** https://github.com/Sanna-s-LAB
 
 ---
 
-### **3. Entropy-Based Causal Scan**
+### **3. Astrolabe**
 Experimental framework in R for identifying candidate causal directions in high-dimensional datasets.  
 Combines entropy-based scoring, permutation robustness, and random forest feature importance.
 
-🔗 (Repository to be added)
-
----
-
-### **4. Longitudinal Modelling Toolkit**
-Utilities for working with repeated-measures datasets: mixed-effects models, visualisation tools, data alignment, and exploratory scanning.
-
-🔗 (Repository to be added)
+🔗 **Link:** https://github.com/astrolabe9698
 
 ---
 
