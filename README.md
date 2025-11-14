@@ -26,7 +26,7 @@ My goal is to build clear, reproducible analyses that uncover structure in data 
 Exploratory analysis of the UCI Wine Quality dataset.  
 Includes correlation structure, dimensionality reduction (PCA), and Isolation Forest outlier detection.
 
-🔗 **Repository:** https://github.com/sciencerabbit19/wine-quality-analysis  
+🔗 **Repository:** https://github.com/sciencerabbit19/Portfolio/tree/main/wine-quality-analyses  
 
 ---
 
