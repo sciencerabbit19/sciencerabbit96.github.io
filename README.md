@@ -34,7 +34,7 @@ Includes correlation structure, dimensionality reduction (PCA), and Isolation Fo
 Longitudinal analysis pipeline for relating hormonal profiles, lipids, and vaginal microbiome composition.  
 Work includes mixed-effects modelling, robust statistical testing, and exploratory visualisation.
 
-🔗 (Repository to be added)
+🔗 **Repository:** https://github.com/Sanna-s-LAB
 
 ---
 
