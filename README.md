@@ -52,10 +52,8 @@ I hold a Master's degree in Mathematics and currently work as a Research Fellow,
 My background spans:
 
 - differential geometry  
-- category theory  
-- statistical modelling  
-- causal inference  
-- biological data analysis  
+- category theory
+- topology  
 
 I enjoy combining mathematical structure with practical data-driven workflows.
 
