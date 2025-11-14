@@ -55,8 +55,6 @@ My background spans:
 - category theory
 - topology  
 
-I enjoy combining mathematical structure with practical data-driven workflows.
-
 ---
 
 ## 📬 Contact
