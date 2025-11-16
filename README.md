@@ -23,7 +23,7 @@ In this repository you'll find folders with the name of the project, basically w
 
 ---
 
-### **2. Women4Health – Hormones & Vaginal Microbiome**
+### **2. Women4Health – Hormones & Vaginal Microbiome
 Longitudinal analysis pipeline for exploring relationships between hormonal profiles, lipids, and vaginal microbiome composition.
 Includes mixed-effects modelling, robust statistical tests, and exploratory visualisation tools.
 Below you will find the link to the repository where the scripts related to my first paper are collected, of which I am one of the first authors.
