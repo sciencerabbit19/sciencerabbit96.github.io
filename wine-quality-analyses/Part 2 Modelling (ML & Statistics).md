@@ -450,14 +450,12 @@ For a differentiable function $\hat{f}(X)$, the partial derivative with respect 
 
 $$
 \frac{\partial\hat{f}}{\partial x_j} (X^0)= \lim_{h \to 0} \frac{\hat{f}(x_1^0,\dots,x_k^0 + h,\dots,x_p^0) - \hat{f}(x_1^0,\dots,x_k^0,\dots,x_p^0)}{h}
-
 $$
 
 that can be approximate discretely, even the function $\hat{f}$ is not smooth, as follows:
 
 $$
 \frac{\partial\hat{f}}{\partial x_j} (X^0) \approx \frac{\hat{f}(x_1^0,\dots,x_k^0 + h,\dots,x_p^0) - \hat{f}(x_1^0,\dots,x_k^0,\dots,x_p^0)}{h}
-
 $$
 
 From a coding perspective, we can implement this idea as follows:
